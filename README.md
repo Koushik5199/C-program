@@ -4,6 +4,7 @@ This repository consists of various C programs that makes foundation in the prog
 #Reading_input_and_displaying_output_of_data_types.c <br>
 #Ascii_values.c <br>
 #IF_Else_Block.c <br>
+#Switch_case.c <br>
 #
 
 
