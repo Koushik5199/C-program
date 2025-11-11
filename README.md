@@ -11,4 +11,5 @@ This repository consists of various C programs that makes foundation in the prog
 #Largest_smallest_number.c <br>
 #Basic_for_loop.c <br>
 #Basic_while_loop.c <br>
-
+#Multiplication_using_for_loop.c <br>
+#
