@@ -9,6 +9,6 @@ This repository consists of various C programs that makes foundation in the prog
 #Reverse_Case_of_string.c <br>
 #swapping_without_third_variable.c <br>
 #Largest_smallest_number.c <br>
-#for_lopp.c <br>
+#Basic_for_loop.c <br>
 
 
