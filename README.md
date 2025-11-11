@@ -10,5 +10,5 @@ This repository consists of various C programs that makes foundation in the prog
 #swapping_without_third_variable.c <br>
 #Largest_smallest_number.c <br>
 #Basic_for_loop.c <br>
-
+#Basic_while_loop.c <br>
 
